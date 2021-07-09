@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'am Meriem OUALI 👋
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on javascript / java applications
 - 🌱 I’m currently learning java / goLang
